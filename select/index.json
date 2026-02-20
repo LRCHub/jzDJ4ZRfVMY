@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "アネモネ",
+  "base_artist": "Novelbright",
+  "createdAt": "2026-02-20T12:58:00.790309Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アネモネ",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/01_アネモネ_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アネモネ",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/02_アネモネ_sumika.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アネモネ",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/03_アネモネ_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アネモネ(TV MIX)",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/04_アネモネ(TV_MIX)_ClariS.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アネモネ",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/05_アネモネ_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アネモネ",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/06_アネモネ_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アネモネ",
+      "artist": "May’n",
+      "has_synced": false,
+      "path": "select/07_アネモネ_May’n.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アネモネ",
+      "artist": "豚乙女",
+      "has_synced": false,
+      "path": "select/08_アネモネ_豚乙女.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アネモネ",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/09_アネモネ_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アネモネ",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/10_アネモネ_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アネモネ (remastered 2022)",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/11_アネモネ_(remastered_2022)_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アネモネ",
+      "artist": "花たん",
+      "has_synced": false,
+      "path": "select/12_アネモネ_花たん.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アネモネ",
+      "artist": "MOON CHILD",
+      "has_synced": false,
+      "path": "select/13_アネモネ_MOON_CHILD.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "アネモネ",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/14_アネモネ_ClariS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アネモネ",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_アネモネ_Novelbright.txt"
+    }
+  ]
+}
